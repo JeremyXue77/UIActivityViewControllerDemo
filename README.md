@@ -10,7 +10,9 @@
 
 我的實作文章：
 
-[Swift — 玩玩 UIActivityViewController](https://medium.com/@JJeremy.XUE)
+[Swift — 玩玩 UIActivityViewController](https://medium.com/@JJeremy.XUE/swift-%E7%8E%A9%E7%8E%A9-uiactivityviewcontroller-5995bb80ff68)
+
+
 
 
 
